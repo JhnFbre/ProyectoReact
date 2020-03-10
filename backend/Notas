@@ -1,0 +1,7 @@
+instalamos react-router-dom  - Aqui extendenos BrowserRouter y Router. 
+    El primero ayuda a crear los enlaces: googlu.com solo por un momento y el router paa las rutas. Debido a que se debe almacenar el enlaces
+
+    Llamamos a Link para conectar los enlaces href con los enlaces de react
+
+    Instalamos axios
+    npm install -S react-toasts

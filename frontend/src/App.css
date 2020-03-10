@@ -1,0 +1,28 @@
+.svg-icon, .svg-icon2, .svg-icon3 {
+    margin-left: 5px;
+    width: 14px;
+    height: 14px;
+}
+.svg-icon2 path,
+.svg-icon2 rect {
+    fill: #77cc77;
+}
+.luz{
+    font-weight: bold;
+}
+textarea {
+    min-height: 50px;
+    max-height: 120px;
+}
+.svg-icon3 path,
+.svg-icon3 rect {
+    fill: #cc7777;
+}
+.siteIcons:hover{
+    cursor: pointer;
+}
+  
+.svg-icon path, 
+.svg-icon rect {
+    fill: #f3e413;
+}
